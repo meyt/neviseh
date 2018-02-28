@@ -1,6 +1,12 @@
 Neviseh
 =======
 
+.. image:: https://travis-ci.org/meyt/neviseh.svg?branch=master
+    :target: https://travis-ci.org/meyt/neviseh
+
+.. image:: https://coveralls.io/repos/github/meyt/neviseh/badge.svg?branch=master
+    :target: https://coveralls.io/github/meyt/neviseh?branch=master
+
 Simple text processing tools in persian.
 
 

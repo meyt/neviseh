@@ -2,4 +2,4 @@ from .text import Text
 from .english import EnglishText
 from .persian import PersianText
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
