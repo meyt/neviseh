@@ -16,7 +16,7 @@ Features
 - Text normalization
 - Keyboard layout mapping translation
 - Calendar translation
-- Zero dependency
+
 
 Usage
 -----
